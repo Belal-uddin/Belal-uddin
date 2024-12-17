@@ -2,8 +2,21 @@
 
 - 🔭 I’m a CSE undergrad student at Comilla University!
 - 🌱 Learning everything which makes me inquisitive
-- 💬 Ask me about anything you want
-- ⚡ Fun fact: I love to play chess and football very much.
+
+
+### Problem Solving Overview
+
+| **Platform**       | **My ID**                                   | **Solved Problems** | **Contest Count** |
+|---------------------|---------------------------------------------|----------------------|-------------------|
+| Codeforces          | [Im_newbie](https://codeforces.com/profile/Im_newbie) | 1006                 | 119               |
+| HackerRank          | [Belal_uddin](https://www.hackerrank.com/profile/BELAL_UDDIN) | ~48                  | 0                 |
+| HackerEarth         | [Belal Uddin](https://www.hackerearth.com/@belal18/)  | 32                   | 0                 |
+| CodeChef            | [belal_000](https://www.codechef.com/users/belal_000) | 8                    | 2                 |
+| AtCoder             | [Belal_wr](https://atcoder.jp/users/Belal_wr)        | ~                    | 7                 |
+| Toph                | [Belal_uddin](https://toph.co/u/Belal_uddin)         | 51                   | 6                 |
+| LeetCode            | [Belal_wr](https://leetcode.com/u/Belal_wr/)        | 2                    | 0                 |
+
+
 
 
 ### 🧰 Languages and Tools:
