@@ -4,7 +4,7 @@
 - 🌱 Learning everything which makes me inquisitive
 
 
-### Problem Solving Overview
+### My Problem Solving Overview:
 
 | **Platform**       | **My ID**                                   | **Solved Problems** | **Contest Count** |
 |---------------------|---------------------------------------------|----------------------|-------------------|
@@ -38,10 +38,7 @@
 
 
 
-<!--   Stats -->
-### 📊 GitHub Stats:
-![Belal-uddin github stats](https://github-readme-stats.vercel.app/api?username=Belal-uddin&theme=nord&show_icons=true&count_private=true)
-  
+
   
 <!--   Top Languages Using -->
 ### 👨‍💻 Top Languages Used*:
