@@ -9,7 +9,7 @@
 | **Platform**       | **My ID**                                   | **Solved Problems** | **Contest Count** |
 |---------------------|---------------------------------------------|----------------------|-------------------|
 | Codeforces          | [Im_newbie](https://codeforces.com/profile/Im_newbie) | 1006                 | 119               |
-| HackerRank          | [Belal_uddin](https://www.hackerrank.com/profile/BELAL_UDDIN) | ~48                  | 0                 |
+| HackerRank          | [Belal_uddin](https://www.hackerrank.com/profile/BELAL_UDDIN) | 48                  | 0                 |
 | HackerEarth         | [Belal Uddin](https://www.hackerearth.com/@belal18/)  | 32                   | 0                 |
 | CodeChef            | [belal_000](https://www.codechef.com/users/belal_000) | 8                    | 2                 |
 | AtCoder             | [Belal_wr](https://atcoder.jp/users/Belal_wr)        | ~                    | 7                 |
